@@ -1,2 +1,0 @@
-Failed to execute aapt
-com.android.ide.common.process.ProcessException: Failed to execute aapt
