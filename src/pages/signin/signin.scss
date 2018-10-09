@@ -1,0 +1,48 @@
+page-signin {
+    p{
+        text-align: center;
+    }
+    .toolbar-title-md{
+        text-align: center;
+        color:$my-theme;
+        font-weight: bold;
+    }
+    .forgot{
+        text-align: center;
+        margin-top: 35px;
+        margin-left: 35%;
+    }
+    
+    .scroll-content{
+       
+    //  background-color: $my-theme; 
+    //  position: fixed;
+    //  top: 0;
+    //  left: 0;
+    background: linear-gradient(to bottom, black 0%,black 50%,#000000 50%,white 50%,white 100%); /* W3C */
+
+   }
+   
+  
+   .conntents{
+    background-color: azure;
+       margin-top: 10%;
+     border-radius: 10px;
+     
+
+   }
+   
+    .float{
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+
+    }
+  
+   .logo{
+            width: 32%;
+            height: 17%;
+            border-radius: 50%;
+            margin-left: 34%;
+            margin-top: 11%;
+   }
+}
